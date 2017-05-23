@@ -2,6 +2,13 @@
 /* CSS Document */
 /* css styles sheet for momo juices */
 
+body {
+	margin: 0;
+	background-image: url(../images/Smoothie-post.jpg);
+	
+	
+}
+
 
 nav {
 	background-color: coral;
@@ -30,18 +37,47 @@ a:link {
 	text-decoration: none;
 	color: black;
 }
+/* May or may not use visited
+a:visited {
+	color: dimgrey;
+}
+*/
+a:hover {
+	color: lightgrey;
+}
 /*
-a:visited 
-
-a:hover
-
 a:active
 */
 
+.title {
+	width: auto;
+	text-align: center;
+	background-color: white;
+	opacity: 0.75;
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-top: 50px;
+	padding: 10px;
+}
 
+h1 {
+	
+	text-align: center;
+	margin: 50px;
+}
 
+h4 {
+	text-align: center;
+	font-weight: 100;
+	margin-top: -50px;
+}
 
-
-
-
+.info {
+	width: auto;
+	text-align: center;
+	background-color: white;
+	opacity: 0.75;
+	margin: 100px;
+	padding: 50px;
+}
 
