@@ -5,6 +5,10 @@
 body {
 	margin: 0;
 	background-image: url(../images/Smoothie-post.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
 	
 	
 }
@@ -17,19 +21,19 @@ nav {
 	text-align: right;
 }
 
-ul {
+nav ul {
 	list-style-type: none;
 	padding: 0;
 	
 }
 
-li {
+nav li {
 	
 	display: inline-block;
 	padding: 75px 50px 0 50px;
 }
 
-li:first-child {
+nav li:first-child {
 	float: left;
 }
 
@@ -37,11 +41,12 @@ a:link {
 	text-decoration: none;
 	color: black;
 }
-/* May or may not use visited
+
 a:visited {
-	color: dimgrey;
+	text-decoration: none;
+	color: black;
 }
-*/
+
 a:hover {
 	color: lightgrey;
 }
@@ -63,13 +68,14 @@ a:active
 h1 {
 	
 	text-align: center;
-	margin: 50px;
+
+	
 }
 
 h4 {
 	text-align: center;
 	font-weight: 100;
-	margin-top: -50px;
+	margin-top: -25px;
 }
 
 .info {
@@ -78,6 +84,7 @@ h4 {
 	background-color: white;
 	opacity: 0.75;
 	margin: 100px;
-	padding: 50px;
+	margin-top: 50px;
+	padding: 25px 50px 25px 50px;
 }
 
