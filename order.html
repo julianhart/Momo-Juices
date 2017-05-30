@@ -28,10 +28,11 @@
 	<div class="order">
 		<form>
 			<h2>Personal Info</h2>
-			<label>First Name:<input type="text" name="firstname"></label>
-			<label>Last Name:<input type="text" name="lastname"></label>
-			<label>Phone Number:<input type="number" name="phonenumber"></label>
-			<label>Email:<input type="email" name="email"></label>
+			<fieldset>
+				<p><label>First Name:<input type="text" name="firstname"></label>
+				<label>Last Name:<input type="text" name="lastname"></label></p>
+				<p><label>Phone Number:<input type="tel" name="phonenumber"></label></p>
+				<p><label>Email:<input type="email" name="email"></label></p>
 			<label>Address:<input type="text" name="address"></label>
 			<label>City:<input type="text" name="city"></label>
 			<label>State:</label>
@@ -91,8 +92,9 @@
 	<option value="WY">Wyoming</option>
 				</select>
 			<label>Zip:<input type="text" name="zip"></label>
-			
+			</fieldset>
 			<h2>Juice</h2>
+			<fieldset>
 			<label>Flavor:<select>
 				<option value="4none">--</option>
 				<option value="F1">F1</option>
@@ -109,9 +111,10 @@
 				<option value="12oz">12oz</option>
 				<option value="16oz">16oz</option>
 				</select></label>
-			<label>Quantity:<input type="text" name="quantity"></label>
-			<label>Special Requests:</label>
-			<textarea name="comments" cols="20" rows="3">Type requests here...</textarea>
+			<label>Quantity:<input type="number" name="quantity"></label>
+				<p><label>Special Requests:</label></p>
+				<p><textarea name="comments" cols="20" rows="3">Type requests here...</textarea></p>
+			</fieldset>
 		</form>
 	</div>
 </body>

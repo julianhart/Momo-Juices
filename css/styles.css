@@ -78,6 +78,14 @@ h4 {
 	margin-top: -25px;
 }
 
+.order {
+	width: auto;
+	background-color: white;
+	opacity: 0.95;
+	margin: 50px 100px 50px 100px;
+	padding: 25px;
+}
+
 .info {
 	width: auto;
 	text-align: center;
