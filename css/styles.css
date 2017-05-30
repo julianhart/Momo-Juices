@@ -68,8 +68,14 @@ a:active
 h1 {
 	
 	text-align: center;
+}
 
-	
+h2 {
+	margin-bottom: 5px;
+}
+
+h3 {
+	margin: -5px 0 -15px 0;
 }
 
 h4 {
