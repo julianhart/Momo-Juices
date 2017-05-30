@@ -1,0 +1,53 @@
+commit e98cbf4d487c7338eecb2de1f6ba5bf3eb720b7b
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 23 14:55:56 2017 -0700
+
+    final commit for 5/23
+
+commit 883e883857a36b969670da12f4e3655b4926a48a
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 23 14:42:53 2017 -0700
+
+    nav bar and titles on all pages
+
+commit 6aacae80ad7ae4a328b30be58713a6f166a3f687
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 23 14:28:23 2017 -0700
+
+    add other html pages
+
+commit 27755b04e54486be4fc3505d6383621eaf175dfe
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 23 13:51:46 2017 -0700
+
+    add images to folder
+
+commit 2894b49bbe7956c36b23ef8a7c2ff699baeadd51
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 23 13:50:15 2017 -0700
+
+    add background image + info
+
+commit 009162f30cee892d67eb7f88dafc2c765d4cba2b
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 16 14:47:06 2017 -0700
+
+    aligned nav elements
+
+commit e2af8675f96c956eeef6675523814beed08a33cf
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 16 14:32:13 2017 -0700
+
+    add nav bar
+
+commit 6bc910c49953689003413ad763529229faad9a48
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 16 13:59:44 2017 -0700
+
+    add styles.css
+
+commit 9d6ff0522165c08a2975de066a3a10f5b17e40ed
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 16 13:45:05 2017 -0700
+
+    initial add html
