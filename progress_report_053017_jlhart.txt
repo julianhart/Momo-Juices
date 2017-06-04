@@ -1,3 +1,27 @@
+commit 57233f121e5e4dc784cf1653bd7796f00f9955de
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 30 14:51:08 2017 -0700
+
+    additions to contact html and css
+
+commit 63fe07e38d333b6e63cd5befadb22b274634f4fb
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 30 14:39:18 2017 -0700
+
+    contact page html
+
+commit d1baecdc3f08457d62047b789f8a7ef100f79322
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 30 13:51:26 2017 -0700
+
+    html form structure and css
+
+commit 732a84e16553000043bfe7d4a559dd0e69ad1b81
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 30 13:25:27 2017 -0700
+
+    order form html
+
 commit e98cbf4d487c7338eecb2de1f6ba5bf3eb720b7b
 Author: Julian Hart <juliohart13@gmail.com>
 Date:   Tue May 23 14:55:56 2017 -0700
