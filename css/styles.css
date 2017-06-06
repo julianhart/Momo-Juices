@@ -83,6 +83,18 @@ h4 {
 	margin-top: -25px;
 }
 
+.menu {
+	width: auto;
+	background-color: white;
+	opacity: 0.95;
+	margin: 50px 100px 50px 100px;
+	padding: 25px;
+}
+.menu img {
+	float: left;
+}
+
+
 .order {
 	width: auto;
 	background-color: white;
