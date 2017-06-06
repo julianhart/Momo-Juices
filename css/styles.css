@@ -84,15 +84,14 @@ h4 {
 }
 
 .menu {
+	display: block;
 	width: auto;
 	background-color: white;
 	opacity: 0.95;
 	margin: 50px 100px 50px 100px;
 	padding: 25px;
 }
-.menu img {
-	float: left;
-}
+
 
 
 .order {
