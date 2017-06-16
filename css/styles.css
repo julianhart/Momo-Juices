@@ -92,6 +92,25 @@ h4 {
 	padding: 50px;
 }
 
+.flavor {
+	display:block;
+}
+
+.menu img {
+	width: 250px;
+	border: 1px solid #000;
+	padding: 10px;
+	
+}
+
+.menu h2 {
+	
+}
+
+.menu p {
+	
+}
+
 
 
 .order {
