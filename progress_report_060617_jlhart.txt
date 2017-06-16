@@ -1,0 +1,113 @@
+commit f1efa4a4657d5c39f74a0687eab108934201b675
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue Jun 6 15:00:34 2017 -0700
+
+    menu names updated
+
+commit 22eae7e788b239fd76ed11051410f5bb786951e6
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue Jun 6 14:52:47 2017 -0700
+
+    lifestyle html started
+
+commit 691f93ae123ce0425b14d4ecbe70f5668666aae1
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue Jun 6 14:21:19 2017 -0700
+
+    menu html
+
+commit fc21db896600201b239377740bbeffe98d41b6b4
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue Jun 6 13:38:19 2017 -0700
+
+    add logo to nav
+
+commit eb2c84b079921cdb22bd39314e558558c71e8844
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Sun Jun 4 15:38:47 2017 -0700
+
+    add send botton to contact page
+
+commit 558ecae9b5b9081b8f2ecf7dc0364513d0aa4889
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Sun Jun 4 15:03:55 2017 -0700
+
+    test commit from laptop
+
+commit 57233f121e5e4dc784cf1653bd7796f00f9955de
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 30 14:51:08 2017 -0700
+
+    additions to contact html and css
+
+commit 63fe07e38d333b6e63cd5befadb22b274634f4fb
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 30 14:39:18 2017 -0700
+
+    contact page html
+
+commit d1baecdc3f08457d62047b789f8a7ef100f79322
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 30 13:51:26 2017 -0700
+
+    html form structure and css
+
+commit 732a84e16553000043bfe7d4a559dd0e69ad1b81
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 30 13:25:27 2017 -0700
+
+    order form html
+
+commit e98cbf4d487c7338eecb2de1f6ba5bf3eb720b7b
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 23 14:55:56 2017 -0700
+
+    final commit for 5/23
+
+commit 883e883857a36b969670da12f4e3655b4926a48a
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 23 14:42:53 2017 -0700
+
+    nav bar and titles on all pages
+
+commit 6aacae80ad7ae4a328b30be58713a6f166a3f687
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 23 14:28:23 2017 -0700
+
+    add other html pages
+
+commit 27755b04e54486be4fc3505d6383621eaf175dfe
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 23 13:51:46 2017 -0700
+
+    add images to folder
+
+commit 2894b49bbe7956c36b23ef8a7c2ff699baeadd51
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 23 13:50:15 2017 -0700
+
+    add background image + info
+
+commit 009162f30cee892d67eb7f88dafc2c765d4cba2b
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 16 14:47:06 2017 -0700
+
+    aligned nav elements
+
+commit e2af8675f96c956eeef6675523814beed08a33cf
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 16 14:32:13 2017 -0700
+
+    add nav bar
+
+commit 6bc910c49953689003413ad763529229faad9a48
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 16 13:59:44 2017 -0700
+
+    add styles.css
+
+commit 9d6ff0522165c08a2975de066a3a10f5b17e40ed
+Author: Julian Hart <juliohart13@gmail.com>
+Date:   Tue May 16 13:45:05 2017 -0700
+
+    initial add html

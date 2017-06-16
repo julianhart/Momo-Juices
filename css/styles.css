@@ -7,11 +7,9 @@ body {
 	background-image: url(../images/Smoothie-post.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: cover;
-	
-	
-	
+	background-size: cover;	
 }
+
 
 
 nav {
@@ -35,6 +33,7 @@ nav li {
 
 nav li:first-child {
 	float: left;
+	padding: 18px 0 0 50px;
 }
 
 a:link {
@@ -68,7 +67,6 @@ a:active
 h1 {
 	
 	text-align: center;
-	text-shadow:7px 7px 7px #003366
 }
 
 h2 {
@@ -84,6 +82,17 @@ h4 {
 	font-weight: 100;
 	margin-top: -25px;
 }
+
+.menu {
+	display: block;
+	width: auto;
+	background-color: white;
+	opacity: 0.95;
+	margin: 50px 100px 50px 100px;
+	padding: 50px;
+}
+
+
 
 .order {
 	width: auto;
@@ -102,4 +111,12 @@ h4 {
 	margin-top: 50px;
 	padding: 25px 50px 25px 50px;
 }
+
+#insta{
+	width:50px;
+}
+
+
+
+
 
